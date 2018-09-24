@@ -1,0 +1,18 @@
+<div class="md-layout md-alignment-center-center" >
+    <div v-for="content in contents" class="md-layout-item md-xsmall-size-100 md-small-size-100 md-medium-size-100 md-large-size-25 md-xlarge-size-25 portfolio-guidepost-content">
+        <a :href="content.link">
+            <md-card class="portfolio-guidepost-content-card">
+                <md-card-media-cover md-solid>
+                    <md-card-media>
+                        <img :src="content.image" />
+                    </md-card-media>
+                    <md-card-area>
+                        <md-card-header>
+                            <span class="md-title">{{ content.title }}</span>
+                        </md-card-header>
+                    </md-card-area>
+                </md-card-media-cover>
+            </md-card>
+        </a>
+    </div>
+</div>
