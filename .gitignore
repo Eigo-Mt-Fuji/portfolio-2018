@@ -4,4 +4,5 @@
 /assets/css/*
 /node_modules
 /assets/node_modules/*
+package-lock.json
 
