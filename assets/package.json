@@ -41,7 +41,8 @@
     "moment": "*",
     "vue-smooth-dnd": "0.2.5",
     "vue2-transitions": "^0.2.3",
-    "material-icons": "^0.2.3"
+    "material-icons": "^0.2.3",
+    "mime": "^1.4.1"
   },
   "dependencies": {
     "vue-router": "^3.0.1"
