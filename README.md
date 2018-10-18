@@ -13,20 +13,31 @@
 
 ## 業務提案
 
+### 企業A
 * 負荷試験対策・構成管理ツール導入・CloudFormation改善提案　１−３月
+
+### 企業B
 * 個人向けプログラミングレッスン（Ruby）　２月〜
+* Railsアプリケーション　GCPを利用したポートフォリオ拡張提案 　８月〜
+   * Rails5, CustomSearch API, GCS
+
+### 企業C
 * 集団新入社員研修(Java)　４月−６月
+
+### 企業D
 * Elixir・Phoenix基礎学習／学習コンテンツ開発／レッスン　６月〜
+* LINEチャットボット開発とAI導入　９月〜
+
+### 企業E
 * 既存アドバイザリシステム（Web） バックエンド改善(VueJs/Typescript/Webpack, Laravel/PHP7, APIGateway/Lambda/Beanstalk)　6月〜
 * 既存アドバイザリシステム（Web） 管理画面改善　8月
 * Wordpress AWSインフラ構築　８月
    * 構成提案（スケジュール考慮、負荷対策・アクセス制御、実績運用、CI/CD）　構築作業　負荷試験ツール提案
-* Railsアプリケーション　GCPを利用したポートフォリオ拡張提案 　８月〜
-   * Rails5, CustomSearch API, GCS
 * アドバイザリWebシステム新規構築(Laravel, Typescript, VueJs)　9月〜
 * アンケート編集業務の運用改善提案（Electron）　９月
-* LINEチャットボット開発とAI導入　９月〜
 * 新規アドバイザリシステム機能追加　１０月
+
+### 企業F
 * XamarinアプリのUWP化調査　１０月〜
 
 ## 能力開発
