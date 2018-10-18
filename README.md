@@ -26,7 +26,7 @@
 
 ### 企業D
 * Elixir・Phoenix基礎学習／学習コンテンツ開発／レッスン　６月〜
-* LINEチャットボット開発とAI導入　９月〜
+* 学習コンテンツ用LINEチャットボット開発とAI導入　９月〜
 
 ### 企業E
 * 既存アドバイザリシステム（Web） バックエンド改善(VueJs/Typescript/Webpack, Laravel/PHP7, APIGateway/Lambda/Beanstalk)　6月〜
