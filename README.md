@@ -36,9 +36,15 @@
 * アドバイザリWebシステム新規構築(Laravel, Typescript, VueJs)　9月〜
 * アンケート編集業務の運用改善提案（Electron）　９月
 * 新規アドバイザリシステム機能追加　１０月
+* Wordpress コード管理改善（Composer導入、PHP／JSテスト実行基盤）
+* Wordpress ACFプラグイン開発
+* 全社VPNインフラ設計（OpenVPN Access Server x AWS）
 
 ### 企業F
 * XamarinアプリのUWP化調査　１０月〜
+
+### 企業G
+* GIS x Elixir/Phonenixハッカソンメンター
 
 ## 主な能力開発
 
