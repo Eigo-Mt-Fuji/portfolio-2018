@@ -37,7 +37,7 @@
 * アンケート編集業務の運用改善提案（Electron）　９月
 * 新規アドバイザリシステム機能追加　１０月
 * Wordpress コード管理改善（Composer導入、PHP／JSテスト実行基盤）
-* Wordpress ACFプラグイン開発
+* Wordpress ACFプラグイン開発(Advanced Custom Field x Typescript x VueJs x Vue Component)
 * 全社VPNインフラ設計（OpenVPN Access Server x AWS）
 
 ### 企業F
